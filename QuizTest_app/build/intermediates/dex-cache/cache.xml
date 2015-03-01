@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Nilesh/AndroidstudioProjects/QuizTest_app/app/libs/commons-lang3-3.0.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b100d152a9e339079707266dad959e49e30ca09c">
+        <dex dex="/Users/Nilesh/AndroidstudioProjects/QuizTest_app/app/build/intermediates/pre-dexed/debug/commons-lang3-3.0.1-008a7dcc50ad277fef883ea79c09c4b15324bd35.jar" />
+    </item>
+    <item
+        jar="/Users/Nilesh/AndroidstudioProjects/QuizTest_app/app/libs/google-common.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f409d30414ccb32528c656ba46b244b56c16b651">
+        <dex dex="/Users/Nilesh/AndroidstudioProjects/QuizTest_app/app/build/intermediates/pre-dexed/debug/google-common-f2d6cd49d7b4b133485b6f7e7c5a50b03c00a6ca.jar" />
+    </item>
+    <item
+        jar="/Users/Nilesh/AndroidstudioProjects/QuizTest_app/app/libs/gson-1.7.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7291c9de7f574b15502f73f0ac2ae6d3af36c751">
+        <dex dex="/Users/Nilesh/AndroidstudioProjects/QuizTest_app/app/build/intermediates/pre-dexed/debug/gson-1.7.1-ca9f5b834790dd69f507c613b284176d2ba69004.jar" />
+    </item>
+    <item
+        jar="/Users/Nilesh/AndroidstudioProjects/QuizTest_app/app/libs/zxing.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2bd10a60d3dfc27f68c293718158441b50afd246">
+        <dex dex="/Users/Nilesh/AndroidstudioProjects/QuizTest_app/app/build/intermediates/pre-dexed/debug/zxing-a80d16225f151d1450d7522df806c75128bca449.jar" />
+    </item>
+
+</items>
